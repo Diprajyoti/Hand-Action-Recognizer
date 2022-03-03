@@ -1,0 +1,2 @@
+# Hand-Action-Recognizer
+This project comes with a inbuild GUI system where mute persons can show their hand gestures to AI and AI will detect the corresponding action and display it on screen. Here our AI can recognize  only 10 actions - Yes, No, okay, rock, bro, no war please, hello, stop there ,call me, proud of JISCE. The last action is a tribute to my engineering collage JIS Collage of Engineering.
