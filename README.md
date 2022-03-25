@@ -3,7 +3,7 @@ This project comes with a inbuild GUI system where mute persons can show their h
 
 Main file is GUI.py. A GUI app will open when the file will be executed.
 
-User need to show their hand actions on cam to get the recognitions. 
+User need to show their hand actions on cam to get the recognitions.   		
 
 for yes - thumbs up,
 for no - thumbs down.
